@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @hfersu
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Angular and Spring Boot
-- 📫 contact@hadrianferreiro.es
+- 👋 Hi, I’m [@hfersu](https://github.com/hfersu/).
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning [Angular](https://angular.io/) and using as backend [Supabase](https://supabase.com/)
+- 🌐 Visit my portfolio [hadrianferreiro.es](https://hadrianferreiro.es)
+- 📫 [contact@hadrianferreiro.es](mailto:contact@hadrianferreiro.es)
