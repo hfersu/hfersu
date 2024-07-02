@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@hfersu](https://github.com/hfersu/).
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning [Angular](https://angular.io/) and using as backend [Supabase](https://supabase.com/)
+- 🌱 I’m currently learning [Nuxt3](https://nuxt.com/) and using as backend [NestJS](https://nestjs.com/)
 - 🌐 Visit my portfolio [hadrianferreiro.es](https://hadrianferreiro.es)
 - 📫 Contact: [contact@hadrianferreiro.es](mailto:contact@hadrianferreiro.es)
